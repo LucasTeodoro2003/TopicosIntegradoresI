@@ -1,0 +1,9 @@
+Subir docker:
+docker-compose up -d
+
+Porta Docker
+docker ps
+
+Pausar Docker:
+docker compose stop
+docker compose down
